@@ -9,4 +9,4 @@ Q2HTTP是基于Node.js开发的,将iCVS协议转换为HTTP(s)协议的一个程�
 
 Q2HTTP可以将ICVS协议转换为HTTP(s)协议+WebSocket(s)的协议.便可以解决以上问题;
 
-详见:[Q2HTTP简介](https://github.com/tsinglink/MCURESTfulApi/wiki/)
+详见:[Q2HTTP简介](https://github.com/tsinglink/MCURESTfulApi/wiki/Q2HTTP简介)
